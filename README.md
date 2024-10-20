@@ -1,1 +1,1 @@
-# Prodigy-ML-05
+This project develops a machine learning model to recognize food items from images and estimate their calorie content, enabling users to track their dietary intake and make informed food choices. This system can be a useful tool for nutrition tracking, health monitoring, and diet planning.
